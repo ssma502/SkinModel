@@ -1,6 +1,6 @@
-# SkinModel
-Matlab implementation of the biophysical spectral skin model and colour transformation pipeline
-
+# Skin colouration Model with 
+Matlab implementation of a biophysical spectral model for skin colouration and colour transformation pipeline.
+ 
 ### Citation
 If you use the biophysical, spectral skin model or the colour transformation pipleline in your research, please cite the following paper:
 ```
