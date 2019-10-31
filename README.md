@@ -1,4 +1,4 @@
-# Skin colouration Model with 
+# SkinModel 
 Matlab implementation of a biophysical spectral model for skin colouration and colour transformation pipeline.
  
 ### Citation
